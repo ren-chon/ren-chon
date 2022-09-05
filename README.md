@@ -28,7 +28,7 @@
 ### Misc:
 * Softwares:
 
-<img align="left" alt="VSCodium" width="26px" src="https://github.com/VSCodium/vscodium/raw/master/src/resources/linux/code.png" />
+<img align="left" alt="VSCodium" width="26px" src="./code.png" />
 <img align="left" alt="Photoshop" width="26px" src="https://files.catbox.moe/72uy4y.png"/>
 <img alt="Blender" width="26px" src="https://files.catbox.moe/c0cn4m.png"/>
 
