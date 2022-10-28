@@ -5,24 +5,25 @@
 
 
 ## Quick Facts
-* 👨🏽‍💻 I’m currently working on an upcoming Full-Stack Web Project.
-* 🌱 I’m currently learning Go and playing with Carbon Language.
-* 🎿 Hobbies other than coding : Reading blogs, Translating Softwares, Games and playing them, Websites and using them, Anime & Manga and enjoying them.
+* 👨🏽‍💻 I’m currently working privately on an upcoming Full-Stack Web Project.
+* 🌱 I’m currently learning: ~~Go~~ Rust, Flutter and playing with Carbon Language.
+* 🎿 Hobbies other than coding: Reading blogs, Translating Softwares, Games and playing them, Websites and using them, Anime & Manga and enjoying them.
  
 ### Technologies
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=blue)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=blue)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flate-square&logo=next.js&logoColor=white)
 ![Remix-run](https://img.shields.io/badge/-Remix-black?style=flat-square&logo=remix)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
-![Markdown](https://img.shields.io/badge/-markdown-black?style=flat-square&logo=markdown)
-![Railway](https://img.shields.io/badge/-Railway-black?style=flat-square&logo=railway)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=2b5b84)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=44B78B)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat&logo=graphql&logoColor=E10098)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=Markdown)
+![Railway](https://img.shields.io/badge/-Railway-black?style=flat-square&logo=Railway&logoColor=5016a1)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=Vercel)
 
 
 ### Misc:
