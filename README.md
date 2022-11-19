@@ -1,7 +1,7 @@
 # Hi, there! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="blobing" />
 
 
-<img src="https://count.getloli.com/get/@:ren-chon" align="right"/>
+<img src="https://count.getloli.com/get/@:ren-chon?theme=rule34" align="right"/>
 
 
 ## Quick Facts
