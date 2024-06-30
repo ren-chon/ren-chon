@@ -5,7 +5,7 @@
 
 
 ## Quick Facts
-* 👨🏽‍💻 I’m currently building some web project.
+* 👨🏽‍💻 I’m currently building some web projects.
 
 ### Technologies
 
