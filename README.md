@@ -3,10 +3,6 @@
 
 <img src="https://count.getloli.com/get/@:ren-chon?theme=rule34" align="right"/>
 
-
-## Quick Facts
-* 👨🏽‍💻 I’m currently building some web projects.
-
 ### Technologies
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=blue)
@@ -20,14 +16,13 @@
 
 
 ### Misc:
-* Softwares:
+* Software:
 
 <img align="left" alt="VSCodium" width="26px" src="./code.png" />
-<img align="left" alt="Photoshop" width="26px" src="https://files.catbox.moe/72uy4y.png"/>
 <img alt="Blender" width="26px" src="https://files.catbox.moe/c0cn4m.png"/>
 
 
 ---
 
-[![corewwwi's github stats](https://github-readme-stats.vercel.app/api?username=ren-chon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![ren-chon's github stats](https://github-readme-stats.vercel.app/api?username=ren-chon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 <!--  **ren-chon/ren-chon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
